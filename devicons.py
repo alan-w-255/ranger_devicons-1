@@ -34,6 +34,7 @@ file_node_extensions = {
     'cmake'    : '',
     'coffee'   : '',
     'conf'     : '',
+    'cfg'      : '',
     'cp'       : '',
     'cpio'     : '',
     'cpp'      : '',
@@ -173,6 +174,8 @@ file_node_extensions = {
     'yaml'     : '',
     'yml'      : '',
     'zip'      : '',
+    'tscn'     : '',
+    'gd'       : '',
 }
 
 dir_node_exact_matches = {
